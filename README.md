@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Alberto
 
-🚀 **I am looking for a role in Data Science**.
-
 Please contact me on [LinkedIn](www.linkedin.com/in/albertomontemiglio) if you would like to have a chat!
 
 Check out my [portfolio ->](https://albertomontemiglio.com/)
